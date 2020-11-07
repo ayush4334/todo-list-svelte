@@ -2,6 +2,8 @@
 
 ---
 
+Demo of this app -> [To-do App](https://cocky-kare-02cda1.netlify.app/);
+
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
